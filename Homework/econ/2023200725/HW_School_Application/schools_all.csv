@@ -1,4 +1,5 @@
 university,group
+<<<<<<< HEAD
 Oxford University,Top30
 University of Pennsylvania,Top30
 Princeton University,Top30
@@ -29,3 +30,35 @@ New York University,Top60-90
 Ohio State University,Top60-90
 Universitetet i Oslo,Top60-90
 Arizona State University,Top60-90
+=======
+Harvard University,Top30
+Yale University,Top30
+New York University,Top30
+London School of Economics,Top30
+Oxford University,Top30
+Princeton University,Top30
+Stanford University,Top30
+MIT,Top30
+"University of California, Berkeley",Top30
+Paris School of Economics,Top30
+University of Cambridge,Top30-60
+University of Toronto,Top30-60
+Cornell University,Top30-60
+Johns Hopkins University,Top30-60
+University of Warwick,Top30-60
+Sciences Po,Top30-60
+University of Amsterdam,Top30-60
+University of Maryland,Top30-60
+University of Texas-Austin,Top30-60
+Erasmus University Rotterdam,Top30-60
+Ludwig-Maximilians-Universität München,Top60-90
+Goethe Universität Frankfurt,Top60-90
+Universitat de Barcelona,Top60-90
+Universidad Carlos III de Madrid,Top60-90
+University of Oslo,Top60-90
+University of Bonn,Top60-90
+Hebrew University of Jerusalem,Top60-90
+University of Sydney,Top60-90
+McGill University,Top60-90
+University of Washington,Top60-90
+>>>>>>> a53b852 (Add files via upload)
