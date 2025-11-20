@@ -7,7 +7,7 @@ Target Project: Team 3 Midterm Codes (`Midterm_codes_Team3.ipynb`)
 
 The results are replicable, but the execution contains warnings that suggest data integrity risks early in the pipeline.
 
-**Specific Issue (DtypeWarning):** Upon execution, the following warning is generated:  `DtypeWarning: Columns (3,32,34,43,46,49,51) have mixed types. Specify dtype option on import or set low\_memory=False.`
+**Specific Issue (DtypeWarning):** Upon execution, the following warning is generated:  `DtypeWarning: Columns (3,32,34,43,46,49,51) have mixed types. Specify dtype option on import or set low_memory=False.`
 
 This indicates that the dataset contains columns where integers/floats are mixed with strings. While the code does not crash immediately, this causes Pandas to assign the object type to these columns. This consumes significantly more memory.
 
