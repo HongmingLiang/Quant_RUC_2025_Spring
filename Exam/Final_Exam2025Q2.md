@@ -18,7 +18,7 @@ reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
 #### I.  Quant Modeling Project 
 
 1. Quant Modeling
-  - you should also address the midterm exam comments from me and your validation team
+  - you should also address the midterm exam comments from professor, TAs and your validation team
   - Any models such as Linear Regression, Lasso, Random Forest, Xgboost, LightGBM, Catboost, Keras ANN, Pytorch ANN, or model stacking to train you model by using the training sample
   - Model performance table 
 
