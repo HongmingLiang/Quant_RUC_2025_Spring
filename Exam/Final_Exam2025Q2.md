@@ -106,6 +106,7 @@ reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
   - Transfer learning 
   - pretraining
   - ensemble of different types of models 
+  - Berttopic or other advanced topic modeling
   - all interesting innovations
 
    
