@@ -99,7 +99,7 @@ reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
 - `Innovations` (**!!! Important !!!**)
 - `formality of coding`
 - `Bonus: New things to try`:
-  - Bert, Roberta, deepseek, Gemma, GPT OSS or other NLP 
+  - Bert, Roberta, deepseek, Gemma, GPT OSS or other NLP (You can deploy your own LLM on RUC cloud computing platform)
   - pca, autoencoder
   - optuna, hyperopt
   - GNN, CNN, RNN
