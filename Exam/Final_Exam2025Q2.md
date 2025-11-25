@@ -65,11 +65,14 @@ reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
 
 
 #### IIIa. Hackathon all students first result submission (`Dec 25th or Dec 26th Depending on your session` one day before final)
-  - Slides: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
+- Slides: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
 <br>
-  - Scoring: `prediction.csv` (Kaggle: https://www.kaggle.com/competitions/ai-python-exam-for-data-scientists-prof-ge/leaderboard)
+
+- Scoring: `prediction.csv` (Kaggle: https://www.kaggle.com/competitions/ai-python-exam-for-data-scientists-prof-ge/leaderboard)
+
 <br>
-  - Codes: `FinalExam_StudentID_yyyymmdd.ipynb` (datahub: https://datahub.ruc.edu.cn/org/RUC/task/68c1644b7517ac72b2f5a8af/692541267517ac72b2dea0cb/submit)
+
+- Codes: `FinalExam_StudentID_yyyymmdd.ipynb` (datahub: https://datahub.ruc.edu.cn/org/RUC/task/68c1644b7517ac72b2f5a8af/692541267517ac72b2dea0cb/submit)
  
 
 
