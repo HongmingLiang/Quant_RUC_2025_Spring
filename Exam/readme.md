@@ -6,7 +6,7 @@ Lei Ge 11/24/2025
 Hackathon definition
 A **hackathon** is an event set up by a company, research lab, or an organization that wants to get the young talented modelers or data scientists
 
-![alt text](image.png)
+<img src="image.png" alt="alt text" width="450">
 
 
 
