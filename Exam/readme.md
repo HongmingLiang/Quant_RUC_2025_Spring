@@ -65,7 +65,7 @@ https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exa
 
 #### IIIa. Hackathon all students first result submission ( one day before presentation date)
 
-  - You need to submit the following files before your presentation date
+  - You need to submit the following files before your presentation date, we need to read your codes and results before your presentation to prepare questions for you
 - Slides: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
 <br>
 
