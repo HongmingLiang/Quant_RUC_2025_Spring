@@ -67,6 +67,7 @@ https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exa
 
   - You need to submit the following files before your presentation date, we need to read your codes and results before your presentation to prepare questions for you
 - Slides: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
+  
 <br>
 
 - Scoring: `prediction.csv` (Kaggle: https://www.kaggle.com/competitions/ai-python-exam-for-data-scientists-prof-ge/leaderboard)
