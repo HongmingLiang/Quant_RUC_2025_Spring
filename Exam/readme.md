@@ -63,7 +63,9 @@ https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exa
 <br>
 
 
-#### IIIa. Hackathon all students first result submission (`Dec 25th or Dec 26th Depending on your session` one day before final)
+#### IIIa. Hackathon all students first result submission ( one day before presentation date)
+
+  - You need to submit the following files before your presentation date
 - Slides: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
 <br>
 
