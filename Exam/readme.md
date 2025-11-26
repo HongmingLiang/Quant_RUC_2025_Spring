@@ -51,8 +51,8 @@ https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exa
 - You should **highlight** the **innovations** during the hackathon presentation 
 - Your score `only depends` on the contents and innovations mentioned by your presentations, but your presentation should be backed by your codes and results (!!!Your results will be checked during the presentation!!!)
 - Only talk key points
-- max 5 slides 
-- `6 min` presentation and `3~4 questions` to check your works, innovations and other key points 
+- max 3 slides (not counts on the frontpage)
+- `4 min` presentation and `2~3 questions` to check your works, innovations and other key points 
 - penalties for the long presentation: up to 5% off   
 
 
