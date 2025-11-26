@@ -4,9 +4,7 @@ Lei Ge 11/24/2025
 #### Why `Hackathon`?
 
 Hackathon definition
-A **hackathon** is an event set up by a company, research lab, or an organization that wants to get a high-quality solution through collaboration between experts. Hackathon format is often competitive.
-
-reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
+A **hackathon** is an event set up by a company, research lab, or an organization that wants to get the young talents
 
 
 
