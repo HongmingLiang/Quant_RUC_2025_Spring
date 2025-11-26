@@ -40,6 +40,10 @@ reference: [https://tips.hackathon.com/article/what-is-a-hackathon]
     - Deep Learning: Keras ANN, Pytorch ANN etc
   - You should tried at least one of the NLP models if possible ( Keywords, LDA, TF-IDF, Word2Vec, Bert, Roberta, Deepseek, Gemma, GPT OSS,  etc)
 
+5. Simple example
+- You can check the final exam example notebook here:
+https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exam_Example.ipynb
+
 
 #### II. Individual Presentation for Innovations (`Dec 25th or Dec 26th Depending on your session`)
 
