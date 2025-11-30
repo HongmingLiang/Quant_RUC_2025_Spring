@@ -1,6 +1,6 @@
 ## Final Exam Pre Orders for Econ Class
 
-##### **Final Exam Project (Hackathon) Link**: 
+#### **Final Exam Project (Hackathon) Link**: 
 
 https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/readme.md
 
@@ -8,7 +8,7 @@ Submission Example: https://github.com/Quant-of-Renmin-University/Quant_RUC/blob
 
 
 
-##### **Submissions**:
+#### **Submissions**:
 
 - **Slides**: `presentation.pdf` (GitHub: https://github.com/Quant-of-Renmin-University/Quant_RUC/tree/main/Homework)
 - **Scoring**: `prediction.csv` (Kaggle: https://www.kaggle.com/competitions/ai-python-exam-for-data-scientists-prof-ge/leaderboard)
@@ -16,7 +16,7 @@ Submission Example: https://github.com/Quant-of-Renmin-University/Quant_RUC/blob
 
 
 
-##### **Final Exam (Hackathon) Information**:
+#### **Final Exam (Hackathon) Information**:
 
 - Dec. 26, 2025, 8:00am - 13:30pm.
 - Room 610, Lide Building. (backup: Room 607)
@@ -24,7 +24,7 @@ Submission Example: https://github.com/Quant-of-Renmin-University/Quant_RUC/blob
 
 
 
-##### **Final Exam Pre Order**:
+#### **Final Exam Pre Order**:
 
 | Order | Student ID | Name   | Group |
 | ----- | ---------- | ------ | ----- |
@@ -47,3 +47,4 @@ Submission Example: https://github.com/Quant-of-Renmin-University/Quant_RUC/blob
 | 17    | 2023201778 | 顾梓民 | 1     |
 | 18    | 2023200593 | 赵蔚   | 1     |
 | /     | 2023201779 | 孙一丹 | 2     |
+
