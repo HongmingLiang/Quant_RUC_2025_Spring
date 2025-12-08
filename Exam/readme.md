@@ -80,7 +80,7 @@ https://github.com/Quant-of-Renmin-University/Quant_RUC/blob/main/Exam/Final_Exa
 
 <br>
 
-#### IIIb. Hackathon final result submission (`submission due Jan ???`)
+#### IIIb. Hackathon final result submission (`submission due Jan 4th EOD`)
 
   - Codes: `FinalExam_StudentID_yyyymmdd.ipynb` (datahub)
   - Scoring: `prediction.csv` (Kaggle)
