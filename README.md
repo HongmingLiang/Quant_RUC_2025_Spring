@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence & Python Programming (Quant) 🤖 
+# Artificial Intelligence & Python Programming (Quant) 🤖 
 - `Lei Ge:` EnnGroup Distinguished Asst. Professor in Quant Economics, Renmin University of China
 -  PhD Georgetown University; Former Quant Researcher in Fannie Mae
 - `Email:` gelei at ruc.edu.cn
@@ -45,6 +45,7 @@ We will meet at every week:
 - `Chenxi Wang （王晨曦）` Teaching Assistant, Renmin University of China
 - `Tianyou Cui （崔天佑）` Teaching Assistant, Renmin University of China
 - `Yichen Xu （徐一宸）` Teaching Assistant, Renmin University of China
+
 
 
 
